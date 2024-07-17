@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #02020A;
+    color: #E9F1F7;
+    overflow: hidden;
+}
+
+.destaque {
+    color: #9932CC;
+}
+
+.introducao__minhaFoto {
+    max-width: 33%;
+    height: 33%;
+}
+
+.introducao {
+    margin: 9% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.introducao__conteudo {
+    width: 815px;
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.introducao__conteudo__titulo {
+    font-size: 36px;
+    font-family: "Open Sans", sans-serif;
+    width: 900px;
+}
+
+.introducao__conteudo__paragrafo {
+    font-size: 24px;
+    font-family: "Public Sans", sans-serif;
+}
+
+.introducao__conteudo__links {
+    display: flex;
+    font-family: "Exo 2", sans-serif;
+    justify-content: space-between;
+}
+
+.introducao__conteudo__links__estetica{
+    background-color: #3392CC;
+    width: 260px;
+    border-radius: 16px;
+    padding: 21.5px 0;
+    text-align: center;
+    font-size: 19px;
+    text-decoration: none;
+    color: black;
+}
+
+.projetos{
+    position: relative;
+    font-size: 20px;
+    height: 60px;
+    font-family: "Open Sans", sans-serif;
+    width: auto;
+    top: -140px;
+    left: 20px;
+}
+.projetos__imagnes_java{
+    margin-left: 10px;
+    position: relative;
+    top: -170px;
+    height: 60px;
+}
+.projetos_organizacao{
+    display: flex;
+    justify-content: space-between;
+    width:120px;
+    gap: 5px;
+}
