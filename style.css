@@ -59,6 +59,10 @@ body {
 }
 
 .introducao__conteudo__links__estetica{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    gap: 10px;
     background-color: transparent;
     border: 2px solid #3392CC;
     width: 360px;
@@ -66,6 +70,7 @@ body {
     padding: 21.5px 0;
     text-align: center;
     font-size: 19px;
+    font-weight: 500;
     text-decoration: none;
     color: #E0E6ED;
 }
@@ -79,21 +84,24 @@ body {
     top: -140px;
     left: 20px;
 }
-.projetos__imagnes_java{
-    margin-left: 10px;
-    position: relative;
-    top: -170px;
-    height: 60px;
-}
+
 .projetos_organizacao{
     display: flex;
     justify-content: space-between;
     width:120px;
     gap: 5px;
+    margin-left: 10px;
+    position: relative;
+    top: -170px;
+    height: 60px;
 }
 
 .introducao__conteudo__subtitulo{
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: 700;
     font-size: 20px;
+}
+
+.introducao__conteudo__links__estetica:hover{
+    background-color: #1b1b22;
 }
