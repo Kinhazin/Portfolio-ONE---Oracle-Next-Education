@@ -10,4 +10,4 @@ O projeto prático do primeiro módulo: "**Iniciante em Programação T7 - ONE**
 - Este projeto tem como foco aprimorar habilidades como layouts, organizar conteúdo e aplicar estilos, preparando para futuros desafios no desenvolvimento web.
 
 ## Visual
-<img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/PrimeiroSite.png?raw=true" alt = "Representação visual da página">
+<img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/PrimeiroSiteVisual.png?raw=true" alt = "Representação visual da página">
