@@ -17,12 +17,12 @@ O projeto prático do primeiro módulo: "**Iniciante em Programação T7 - ONE**
 <img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Home.png?raw=true" alt = "Representação visual da página: Home">
 
 ### Sobre mim
-<img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim.png?raw=true" alt="Representação visual da página: Sobre mim">
+<img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim-Visual.png?raw=true" alt="Representação visual da página: Sobre mim">
 
 ## Visual - Mobile 📱
 
 ### Home
-<img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Home-Mobile.png?raw=true" alt = "Representação visual da página: Home">
+<img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Home-Mobile-Visual.png?raw=true" alt = "Representação visual da página: Home">
 
 ### Sobre mim
-<img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim-Mobile.png?raw=true" alt = " Representação visual da página: Sobre mim">
+<img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim-Mobile-Visual.png?raw=true" alt = " Representação visual da página: Sobre mim">
