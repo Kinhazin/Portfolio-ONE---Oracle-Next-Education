@@ -9,12 +9,10 @@ O projeto prático do primeiro módulo: "**Iniciante em Programação T7 - ONE**
 - É utilizado HTML & CSS para construir e estilizar uma página web que mostre nossas habilidades. 
 - Este projeto tem como foco aprimorar habilidades como layouts, organizar conteúdo e aplicar estilos, preparando para futuros desafios no desenvolvimento web.
 
-## Visual
+## Visual - Desktop 💻
 
-### Desktop
-
-#### Home
+### Home
 <img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Home.png?raw=true" alt = "Representação visual da página: Home">
 
-#### Sobre mim
+### Sobre mim
 <img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim.png?raw=true" alt="Representação visual da página: Sobre Mim">
