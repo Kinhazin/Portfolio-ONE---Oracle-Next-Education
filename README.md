@@ -9,6 +9,8 @@ O projeto prático do primeiro módulo: "**Iniciante em Programação T7 - ONE**
 - É utilizado HTML & CSS para construir e estilizar uma página web que mostre nossas habilidades. 
 - Este projeto tem como foco aprimorar habilidades como layouts, organizar conteúdo e aplicar estilos, preparando para futuros desafios no desenvolvimento web.
 
+**Link para acessar o site:** [Portfolio](https://portfolio-delta-orpin-70.vercel.app)
+
 ## Visual - Desktop 💻
 
 ### Home
