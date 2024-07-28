@@ -137,30 +137,6 @@ body {
     transition-duration: 0.4s;
 }
 
-.projetos {
-    position: relative;
-    font-size: 1.25rem;
-    height: 60px;
-    font-family: var(--fonte-principal);
-    width: auto;
-    bottom: -155px;
-    left: -180px;
-
-}
-
-
-.projetos_organizacao {
-    display: flex;
-    justify-content: space-between;
-    gap: 5px;
-    margin-left: 10px;
-    position: relative;
-    width: 80px;
-    height: 60px;
-    left: -200px;
-    bottom: -90px;
-}
-
 .introducao__conteudo__subtitulo {
     font-family: var(--fonte-subtitulo);
     font-weight: 700;
@@ -316,28 +292,5 @@ body {
         height: auto;
     }
 
-    .projetos {
-        position: relative;
-        font-size: 1.20rem;
-        height: 50px;
-        font-family: var(--fonte-principal);
-        width: auto;
-        transform: translateY(-55%);
-        left: -32%;
-
-    }
-
-
-    .projetos_organizacao {
-        display: flex;
-        justify-content: space-between;
-        gap: 3px;
-        margin-left: 1%;
-        position: relative;
-        width: 60px;    
-        height: 50px;
-        left: -52%;
-        transform: translateY(-25%);;
-    }
 
 }
