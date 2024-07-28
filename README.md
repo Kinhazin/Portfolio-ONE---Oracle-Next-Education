@@ -16,3 +16,11 @@ O projeto prático do primeiro módulo: "**Iniciante em Programação T7 - ONE**
 
 ### Sobre mim
 <img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%20mim.png?raw=true" alt="Representação visual da página: Sobre Mim">
+
+## Visual - Mobile 📱
+
+### Home
+<img src = "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Home-Mobile.png?raw=true" alt = "Representação visual da página: Home">
+
+### Sobre mim
+<img src= "https://github.com/Kinhazin/Portfolio-ONE---Oracle-Next-Education/blob/main/assets/Sobre%mim-Mobile.png?raw=true" alt="Representação visual da página: Sobre Mim">
