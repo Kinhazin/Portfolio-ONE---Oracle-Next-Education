@@ -23,7 +23,6 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
-    overflow: hidden;
 
 }
 
@@ -62,7 +61,7 @@ body {
 
 
 .introducao {
-    padding: 5% 10%;
+    padding: 6% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -200,7 +199,7 @@ body {
 }
 
 .introducao__pagina2 {
-    padding: 5% 10%;
+    padding: 6% 10%;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -229,6 +228,7 @@ body {
         align-items: center;
         justify-content: space-between;
         gap: 40px;
+        height: auto;
 
     }
 
@@ -338,13 +338,6 @@ body {
         height: 50px;
         left: -370px;
         bottom: -80px;
-    }
-    
-    .body {
-        box-sizing: border-box;
-        background-color: var(--cor-primaria);
-        color: var(--cor-secundaria);
-        overflow-y: auto;
     }
 
 }
